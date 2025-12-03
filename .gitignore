@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MyStoreKata/.vs/MyStoreKata.slnx
+/MyStoreKata/MyStore.Domain/bin/Debug/net10.0
+/MyStoreKata/MyStore.Domain/obj
+/MyStoreKata/MyStoreKata/bin/Debug/net10.0
+/MyStoreKata/MyStoreKata/obj
+/MyStoreKata/MyStoreKata.UnitTests/bin/Debug/net10.0
+/MyStoreKata/MyStoreKata.UnitTests/obj
