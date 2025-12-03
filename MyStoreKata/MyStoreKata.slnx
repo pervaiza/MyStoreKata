@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MyStore.Domain/MyStore.Domain.csproj" />
+  <Project Path="MyStoreKata.UnitTests/MyStoreKata.UnitTests.csproj" />
+  <Project Path="MyStoreKata/MyStoreKata.csproj" />
+</Solution>
