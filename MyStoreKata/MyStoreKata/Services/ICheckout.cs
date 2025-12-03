@@ -23,5 +23,4 @@ namespace MyStoreKata.Services
             throw new NotImplementedException();
         }
     }
-
 }
