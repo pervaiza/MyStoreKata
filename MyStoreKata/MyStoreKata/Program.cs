@@ -2,9 +2,6 @@
 using MyStore.Domain;
 using MyStoreKata.Services;
 
-///<summary>
-///https://github.com/brightsg/checkout-kata
-/// </summary>
 
 var checkout = new Checkout(DefaultPricing.GetDefaultPricingRules());
 
